@@ -24,5 +24,5 @@ I enjoy making apps and tools. Sometimes I even write libraries.
 
 [![Stats](https://github-readme-stats-ten-pi-62.vercel.app/api?username=AbysmalBiscuit&include_all_commits=true&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=catppuccin_latte)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top languages](https://github-readme-stats-ten-pi-62.vercel.app/api/top-langs?username=AbysmalBiscuit&hide=scss&langs_count=20&size_weight=0.5&count_weight=0.5&exclude_repo=walker,helpukraine.guide,helpylukraine.guide-theme&theme=catppuccin_latte)](https://github.com/anuraghazra/github-readme-stats)
+[![Top languages](https://github-readme-stats-ten-pi-62.vercel.app/api/top-langs?username=AbysmalBiscuit&hide=scss,mako,svelte&langs_count=20&size_weight=0.5&count_weight=0.5&exclude_repo=walker,helpukraine.guide,helpylukraine.guide-theme&theme=catppuccin_latte)](https://github.com/anuraghazra/github-readme-stats)
 
