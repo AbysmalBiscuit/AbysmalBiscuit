@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 I enjoy making apps and tools. Sometimes I even write libraries.
 
-[PhD Candidate in Information Systems](https://www.unil.ch/hec/en/home/menuinst/recherche/ecole-doctorale/phd-information-systems.html) at [The University of Lausanne (UNIL)](https://www.unil.ch/unil/en/home.html)
+Full stack engineer with a [PhD in Information Systems](https://www.unil.ch/hec/en/home/menuinst/recherche/ecole-doctorale/phd-information-systems.html) at [The University of Lausanne (UNIL)](https://www.unil.ch/unil/en/home.html)
 
 ## Stats
 
