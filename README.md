@@ -32,7 +32,7 @@ Full stack engineer with a [PhD in Information Systems](https://www.unil.ch/hec/
       </td>
       <td style="width: 50% !important">
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img id="langs_card" src="https://github-readme-stats-ten-pi-62.vercel.app/api/top-langs?username=AbysmalBiscuit&hide=html,css,Makefile,scss,mako,svelte,glsl&langs_count=20&size_weight=0.5&count_weight=0.5&exclude_repo=DataDrivenSurveysPrivate,walker,helpukraine.guide,helpukraine.guide-theme,dotfiles&layout=donut&card_width=350">
+        <img id="langs_card" src="https://github-readme-stats-ten-pi-62.vercel.app/api/top-langs?username=AbysmalBiscuit&hide=html,css,Makefile,scss,mako,svelte,glsl&langs_count=20&size_weight=0.5&count_weight=0.5&exclude_repo=BountyPop_GODOT,DataDrivenSurveysPrivate,walker,helpukraine.guide,helpukraine.guide-theme,dotfiles&layout=donut&card_width=350">
       </a>
       </td>
     </tr>
